@@ -2,10 +2,10 @@
 # Python 3.8+ required
 
 # Core dependencies (required)
-cot-reports>=1.0.0
+cot-reports>=0.1.3
 pandas>=2.0.0
-duckdb>=0.9.0
-pyarrow>=14.0.0
+duckdb>=1.1.0
+pyarrow>=17.0.0
 
 # Optional dependencies
 # Uncomment if you want clipboard functionality in encoding_utils
